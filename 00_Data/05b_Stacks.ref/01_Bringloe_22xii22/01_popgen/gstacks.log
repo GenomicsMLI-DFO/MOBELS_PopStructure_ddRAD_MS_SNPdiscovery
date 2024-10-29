@@ -1,0 +1,45 @@
+gstacks v2.55, executed 2023-02-02 09:23:38 (zlib-1.2.11)
+/home/genyoda/Documents/Programs/stacks-2.55/gstacks -I ./00_Data/03b_Align/01_Bringloe_22xii22 -M ./00_Data/00_FileInfos/popmap_good_align_popgen_Bringloe_230201.txt -O ./00_Data/05b_Stacks.ref/01_Bringloe_22xii22/01_popgen -S .sorted.bam -t 12
+Locus/sample distributions will be written to './00_Data/05b_Stacks.ref/01_Bringloe_22xii22/01_popgen/gstacks.log.distribs'.
+
+Configuration for this run:
+  Input mode: reference-based
+  Population map: './00_Data/00_FileInfos/popmap_good_align_popgen_Bringloe_230201.txt'
+  Input files: 746, e.g. './00_Data/03b_Align/01_Bringloe_22xii22/S_20_00600.sorted.bam'
+  Output to: './00_Data/05b_Stacks.ref/01_Bringloe_22xii22/01_popgen/'
+  Model: marukilow (var_alpha: 0.01, gt_alpha: 0.05)
+
+Reading BAM headers...
+Processing all loci...
+1K...
+2K...
+5K...
+10K...
+20K...
+50K...
+100K...
+200K...
+500K...
+1000K...
+2000K...
+done.
+
+Read 7436470203 BAM records:
+  kept 5347621419 primary alignments (76.0%), of which 2654858125 reverse reads
+  skipped 1235580230 primary alignments with insufficient mapping qualities (17.6%)
+  skipped 373371040 excessively soft-clipped primary alignments (5.3%)
+  skipped 79055035 unmapped reads (1.1%)
+  skipped some suboptimal (secondary/supplementary) alignment records
+
+  Per-sample stats (details in 'gstacks.log.distribs'):
+    read 9968458.7 records/sample (168837-56308623)
+    kept 53.5%-83.4% of these
+
+Built 2066137 loci comprising 2692763294 forward reads and 2501010019 matching paired-end reads; mean insert length was 215.6 (sd: 49.2).
+
+Genotyped 2066137 loci:
+  effective per-sample coverage: mean=15.3x, stdev=9.8x, min=2.1x, max=76.8x
+  mean number of sites per locus: 222.2
+  a consistent phasing was found for 4924199 of out 6329543 (77.8%) diploid loci needing phasing
+
+gstacks is done.

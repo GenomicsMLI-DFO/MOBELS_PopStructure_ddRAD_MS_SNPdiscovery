@@ -1,0 +1,1762 @@
+# Note: Individual distributions can be extracted using the `stacks-dist-extract` utility.
+#       e.g. `stacks-dist-extract populations.log.distribs dist_name`
+
+BEGIN batch_progress
+S_20_00703_Chromosome1_scaffold_1: analyzed 2342 loci; filtered 2765 loci; 5107 loci seen.
+    482481 genomic sites, of which 12876 were covered by multiple loci (2.7%).
+S_20_00703_Chromosome1_scaffold_2: analyzed 5370 loci; filtered 6679 loci; 12049 loci seen.
+    1095658 genomic sites, of which 30538 were covered by multiple loci (2.8%).
+S_20_00703_Chromosome1_scaffold_3: analyzed 7308 loci; filtered 9176 loci; 16484 loci seen.
+    1489556 genomic sites, of which 40412 were covered by multiple loci (2.7%).
+S_20_00703_Chromosome2_scaffold_4: analyzed 3200 loci; filtered 3824 loci; 7024 loci seen.
+    660859 genomic sites, of which 15298 were covered by multiple loci (2.3%).
+S_20_00703_Chromosome2_scaffold_5: analyzed 5581 loci; filtered 6573 loci; 12154 loci seen.
+    1151173 genomic sites, of which 27434 were covered by multiple loci (2.4%).
+S_20_00703_Chromosome3_scaffold_6: analyzed 2962 loci; filtered 3612 loci; 6574 loci seen.
+    607594 genomic sites, of which 16420 were covered by multiple loci (2.7%).
+S_20_00703_Chromosome4_scaffold_7: analyzed 9484 loci; filtered 11518 loci; 21002 loci seen.
+    1944435 genomic sites, of which 47834 were covered by multiple loci (2.5%).
+S_20_00703_ChromosomeX_scaffold_8: analyzed 1254 loci; filtered 1402 loci; 2656 loci seen.
+    260073 genomic sites, of which 4290 were covered by multiple loci (1.6%).
+S_20_00703_ChromosomeX_scaffold_9: analyzed 4882 loci; filtered 7015 loci; 11897 loci seen.
+    1008512 genomic sites, of which 16812 were covered by multiple loci (1.7%).
+S_20_00703_Chromosome5_scaffold_10: analyzed 7691 loci; filtered 9618 loci; 17309 loci seen.
+    1572240 genomic sites, of which 39762 were covered by multiple loci (2.5%).
+S_20_00703_Chromosome5_scaffold_11: analyzed 2389 loci; filtered 2905 loci; 5294 loci seen.
+    484639 genomic sites, of which 14259 were covered by multiple loci (2.9%).
+S_20_00703_Chromosome6_scaffold_12: analyzed 2656 loci; filtered 3679 loci; 6335 loci seen.
+    542635 genomic sites, of which 14919 were covered by multiple loci (2.7%).
+S_20_00703_Chromosome6_scaffold_13: analyzed 4788 loci; filtered 6126 loci; 10914 loci seen.
+    982323 genomic sites, of which 25210 were covered by multiple loci (2.6%).
+S_20_00703_Chromosome7_scaffold_14: analyzed 6472 loci; filtered 8337 loci; 14809 loci seen.
+    1319838 genomic sites, of which 36525 were covered by multiple loci (2.8%).
+S_20_00703_Chromosome7_scaffold_15: analyzed 2318 loci; filtered 3070 loci; 5388 loci seen.
+    468698 genomic sites, of which 15202 were covered by multiple loci (3.2%).
+S_20_00703_Chromosome8_scaffold_16: analyzed 2104 loci; filtered 2640 loci; 4744 loci seen.
+    432331 genomic sites, of which 11906 were covered by multiple loci (2.8%).
+S_20_00703_Chromosome8_scaffold_17: analyzed 2375 loci; filtered 3083 loci; 5458 loci seen.
+    476974 genomic sites, of which 14398 were covered by multiple loci (3.0%).
+S_20_00703_Chromosome8_scaffold_18: analyzed 11538 loci; filtered 14453 loci; 25991 loci seen.
+    2339971 genomic sites, of which 68699 were covered by multiple loci (2.9%).
+S_20_00703_Chromosome9_scaffold_19: analyzed 6133 loci; filtered 7851 loci; 13984 loci seen.
+    1263550 genomic sites, of which 35051 were covered by multiple loci (2.8%).
+S_20_00703_Chromosome9_scaffold_20: analyzed 313 loci; filtered 338 loci; 651 loci seen.
+    65382 genomic sites, of which 1652 were covered by multiple loci (2.5%).
+S_20_00703_Chromosome9_scaffold_21: analyzed 1334 loci; filtered 1685 loci; 3019 loci seen.
+    271270 genomic sites, of which 8072 were covered by multiple loci (3.0%).
+S_20_00703_Chromosome10_scaffold_22: analyzed 927 loci; filtered 1379 loci; 2306 loci seen.
+    188633 genomic sites, of which 6741 were covered by multiple loci (3.6%).
+S_20_00703_Chromosome10_scaffold_23: analyzed 4419 loci; filtered 5681 loci; 10100 loci seen.
+    908084 genomic sites, of which 21966 were covered by multiple loci (2.4%).
+S_20_00703_Chromosome11_scaffold_24: analyzed 7659 loci; filtered 9568 loci; 17227 loci seen.
+    1563879 genomic sites, of which 39677 were covered by multiple loci (2.5%).
+S_20_00703_Chromosome12_scaffold_25: analyzed 10599 loci; filtered 13128 loci; 23727 loci seen.
+    2165067 genomic sites, of which 57674 were covered by multiple loci (2.7%).
+S_20_00703_Chromosome13_scaffold_26: analyzed 3944 loci; filtered 4907 loci; 8851 loci seen.
+    808853 genomic sites, of which 23328 were covered by multiple loci (2.9%).
+S_20_00703_Chromosome13_scaffold_27: analyzed 1935 loci; filtered 2565 loci; 4500 loci seen.
+    395714 genomic sites, of which 9708 were covered by multiple loci (2.5%).
+S_20_00703_Chromosome14_scaffold_28: analyzed 8782 loci; filtered 10990 loci; 19772 loci seen.
+    1795636 genomic sites, of which 45516 were covered by multiple loci (2.5%).
+S_20_00703_Chromosome15_scaffold_29: analyzed 2405 loci; filtered 2929 loci; 5334 loci seen.
+    492618 genomic sites, of which 14114 were covered by multiple loci (2.9%).
+S_20_00703_Chromosome15_scaffold_30: analyzed 2822 loci; filtered 3573 loci; 6395 loci seen.
+    578514 genomic sites, of which 16094 were covered by multiple loci (2.8%).
+S_20_00703_Chromosome16_scaffold_31: analyzed 2502 loci; filtered 3033 loci; 5535 loci seen.
+    512238 genomic sites, of which 13805 were covered by multiple loci (2.7%).
+S_20_00703_Chromosome16_scaffold_32: analyzed 5424 loci; filtered 6792 loci; 12216 loci seen.
+    1106893 genomic sites, of which 33280 were covered by multiple loci (3.0%).
+S_20_00703_Chromosome17_scaffold_33: analyzed 1566 loci; filtered 1997 loci; 3563 loci seen.
+    321808 genomic sites, of which 7970 were covered by multiple loci (2.5%).
+S_20_00703_Chromosome17_scaffold_34: analyzed 37 loci; filtered 58 loci; 95 loci seen.
+    7117 genomic sites, of which 180 were covered by multiple loci (2.5%).
+S_20_00703_Chromosome17_scaffold_35: analyzed 7125 loci; filtered 8587 loci; 15712 loci seen.
+    1462530 genomic sites, of which 40107 were covered by multiple loci (2.7%).
+S_20_00703_Chromosome18_scaffold_36: analyzed 2478 loci; filtered 2857 loci; 5335 loci seen.
+    511489 genomic sites, of which 12137 were covered by multiple loci (2.4%).
+S_20_00703_Chromosome18_scaffold_37: analyzed 3588 loci; filtered 4439 loci; 8027 loci seen.
+    733199 genomic sites, of which 18778 were covered by multiple loci (2.6%).
+S_20_00703_Chromosome18_scaffold_38: analyzed 4625 loci; filtered 5795 loci; 10420 loci seen.
+    945929 genomic sites, of which 27416 were covered by multiple loci (2.9%).
+S_20_00703_Chromosome19_scaffold_39: analyzed 7758 loci; filtered 9607 loci; 17365 loci seen.
+    1600265 genomic sites, of which 39456 were covered by multiple loci (2.5%).
+S_20_00703_Chromosome19_scaffold_40: analyzed 4332 loci; filtered 5381 loci; 9713 loci seen.
+    896922 genomic sites, of which 18333 were covered by multiple loci (2.0%).
+S_20_00703_Chromosome20_scaffold_41: analyzed 206 loci; filtered 264 loci; 470 loci seen.
+    41237 genomic sites, of which 1476 were covered by multiple loci (3.6%).
+S_20_00703_Chromosome20_scaffold_42: analyzed 7586 loci; filtered 9123 loci; 16709 loci seen.
+    1549522 genomic sites, of which 41527 were covered by multiple loci (2.7%).
+S_20_00703_Chromosome20_scaffold_43: analyzed 3205 loci; filtered 3657 loci; 6862 loci seen.
+    659074 genomic sites, of which 17746 were covered by multiple loci (2.7%).
+S_20_00703_Chromosome21_scaffold_44: analyzed 1228 loci; filtered 1526 loci; 2754 loci seen.
+    245963 genomic sites, of which 7556 were covered by multiple loci (3.1%).
+S_20_00703_Chromosome21_scaffold_45: analyzed 703 loci; filtered 887 loci; 1590 loci seen.
+    141083 genomic sites, of which 5428 were covered by multiple loci (3.8%).
+S_20_00703_Chromosome21_scaffold_46: analyzed 8219 loci; filtered 11149 loci; 19368 loci seen.
+    1663609 genomic sites, of which 51989 were covered by multiple loci (3.1%).
+HiC_scaffold_59: analyzed 21 loci; filtered 51 loci; 72 loci seen.
+    5877 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_64: analyzed 3 loci; filtered 57 loci; 60 loci seen.
+    257 genomic sites, of which 157 were covered by multiple loci (61.1%).
+HiC_scaffold_109: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    389 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_111: analyzed 6 loci; filtered 21 loci; 27 loci seen.
+    916 genomic sites, of which 172 were covered by multiple loci (18.8%).
+HiC_scaffold_113: analyzed 3 loci; filtered 1 loci; 4 loci seen.
+    627 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_116: analyzed 6 loci; filtered 9 loci; 15 loci seen.
+    1171 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_128: analyzed 12 loci; filtered 27 loci; 39 loci seen.
+    2399 genomic sites, of which 194 were covered by multiple loci (8.1%).
+HiC_scaffold_133: analyzed 14 loci; filtered 19 loci; 33 loci seen.
+    3131 genomic sites, of which 12 were covered by multiple loci (0.4%).
+HiC_scaffold_135: analyzed 7 loci; filtered 1 loci; 8 loci seen.
+    1648 genomic sites, of which 4 were covered by multiple loci (0.2%).
+HiC_scaffold_138: analyzed 8 loci; filtered 7 loci; 15 loci seen.
+    1899 genomic sites, of which 4 were covered by multiple loci (0.2%).
+HiC_scaffold_141: analyzed 3 loci; filtered 2 loci; 5 loci seen.
+    418 genomic sites, of which 150 were covered by multiple loci (35.9%).
+HiC_scaffold_143: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    474 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_146: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    472 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_147: analyzed 3 loci; filtered 6 loci; 9 loci seen.
+    371 genomic sites, of which 181 were covered by multiple loci (48.8%).
+HiC_scaffold_153: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    493 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_155: analyzed 8 loci; filtered 11 loci; 19 loci seen.
+    1847 genomic sites, of which 8 were covered by multiple loci (0.4%).
+HiC_scaffold_164: analyzed 35 loci; filtered 105 loci; 140 loci seen.
+    6861 genomic sites, of which 632 were covered by multiple loci (9.2%).
+HiC_scaffold_166: analyzed 2 loci; filtered 40 loci; 42 loci seen.
+    532 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_170: analyzed 6 loci; filtered 22 loci; 28 loci seen.
+    1305 genomic sites, of which 4 were covered by multiple loci (0.3%).
+HiC_scaffold_176: analyzed 16 loci; filtered 33 loci; 49 loci seen.
+    3528 genomic sites, of which 205 were covered by multiple loci (5.8%).
+HiC_scaffold_178: analyzed 5 loci; filtered 10 loci; 15 loci seen.
+    1039 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_182: analyzed 3 loci; filtered 5 loci; 8 loci seen.
+    875 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_185: analyzed 23 loci; filtered 59 loci; 82 loci seen.
+    5514 genomic sites, of which 724 were covered by multiple loci (13.1%).
+HiC_scaffold_188: analyzed 10 loci; filtered 10 loci; 20 loci seen.
+    2167 genomic sites, of which 4 were covered by multiple loci (0.2%).
+HiC_scaffold_189: analyzed 9 loci; filtered 22 loci; 31 loci seen.
+    1307 genomic sites, of which 567 were covered by multiple loci (43.4%).
+HiC_scaffold_196: analyzed 7 loci; filtered 14 loci; 21 loci seen.
+    848 genomic sites, of which 231 were covered by multiple loci (27.2%).
+HiC_scaffold_201: analyzed 4 loci; filtered 2 loci; 6 loci seen.
+    1046 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_206: analyzed 11 loci; filtered 11 loci; 22 loci seen.
+    2368 genomic sites, of which 4 were covered by multiple loci (0.2%).
+HiC_scaffold_209: analyzed 2 loci; filtered 13 loci; 15 loci seen.
+    479 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_214: analyzed 4 loci; filtered 9 loci; 13 loci seen.
+    699 genomic sites, of which 174 were covered by multiple loci (24.9%).
+HiC_scaffold_222: analyzed 8 loci; filtered 18 loci; 26 loci seen.
+    1723 genomic sites, of which 4 were covered by multiple loci (0.2%).
+HiC_scaffold_223: analyzed 7 loci; filtered 8 loci; 15 loci seen.
+    1487 genomic sites, of which 8 were covered by multiple loci (0.5%).
+HiC_scaffold_224: analyzed 4 loci; filtered 19 loci; 23 loci seen.
+    631 genomic sites, of which 152 were covered by multiple loci (24.1%).
+HiC_scaffold_232: analyzed 10 loci; filtered 19 loci; 29 loci seen.
+    2695 genomic sites, of which 4 were covered by multiple loci (0.1%).
+HiC_scaffold_234: analyzed 5 loci; filtered 4 loci; 9 loci seen.
+    1109 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_237: analyzed 2 loci; filtered 13 loci; 15 loci seen.
+    283 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_241: analyzed 3 loci; filtered 6 loci; 9 loci seen.
+    448 genomic sites, of which 160 were covered by multiple loci (35.7%).
+HiC_scaffold_242: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    353 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_243: analyzed 3 loci; filtered 8 loci; 11 loci seen.
+    595 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_245: analyzed 3 loci; filtered 14 loci; 17 loci seen.
+    694 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_248: analyzed 8 loci; filtered 5 loci; 13 loci seen.
+    1176 genomic sites, of which 176 were covered by multiple loci (15.0%).
+HiC_scaffold_249: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    485 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_251: analyzed 6 loci; filtered 22 loci; 28 loci seen.
+    1829 genomic sites, of which 150 were covered by multiple loci (8.2%).
+HiC_scaffold_256: analyzed 9 loci; filtered 13 loci; 22 loci seen.
+    1531 genomic sites, of which 264 were covered by multiple loci (17.2%).
+HiC_scaffold_261: analyzed 3 loci; filtered 1 loci; 4 loci seen.
+    387 genomic sites, of which 145 were covered by multiple loci (37.5%).
+HiC_scaffold_262: analyzed 4 loci; filtered 16 loci; 20 loci seen.
+    1204 genomic sites, of which 234 were covered by multiple loci (19.4%).
+HiC_scaffold_268: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    454 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_269: analyzed 3 loci; filtered 5 loci; 8 loci seen.
+    386 genomic sites, of which 171 were covered by multiple loci (44.3%).
+HiC_scaffold_272: analyzed 3 loci; filtered 1 loci; 4 loci seen.
+    693 genomic sites, of which 21 were covered by multiple loci (3.0%).
+HiC_scaffold_273: analyzed 4 loci; filtered 12 loci; 16 loci seen.
+    1291 genomic sites, of which 4 were covered by multiple loci (0.3%).
+HiC_scaffold_276: analyzed 3 loci; filtered 7 loci; 10 loci seen.
+    693 genomic sites, of which 4 were covered by multiple loci (0.6%).
+HiC_scaffold_279: analyzed 3 loci; filtered 9 loci; 12 loci seen.
+    607 genomic sites, of which 4 were covered by multiple loci (0.7%).
+HiC_scaffold_281: analyzed 3 loci; filtered 13 loci; 16 loci seen.
+    624 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_285: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    442 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_288: analyzed 4 loci; filtered 8 loci; 12 loci seen.
+    902 genomic sites, of which 4 were covered by multiple loci (0.4%).
+HiC_scaffold_291: analyzed 3 loci; filtered 9 loci; 12 loci seen.
+    467 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_294: analyzed 10 loci; filtered 15 loci; 25 loci seen.
+    1885 genomic sites, of which 400 were covered by multiple loci (21.2%).
+HiC_scaffold_297: analyzed 6 loci; filtered 4 loci; 10 loci seen.
+    1046 genomic sites, of which 163 were covered by multiple loci (15.6%).
+HiC_scaffold_301: analyzed 3 loci; filtered 2 loci; 5 loci seen.
+    780 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_307: analyzed 3 loci; filtered 23 loci; 26 loci seen.
+    530 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_319: analyzed 9 loci; filtered 21 loci; 30 loci seen.
+    1940 genomic sites, of which 188 were covered by multiple loci (9.7%).
+HiC_scaffold_322: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    583 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_324: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    511 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_330: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    515 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_331: analyzed 7 loci; filtered 10 loci; 17 loci seen.
+    1434 genomic sites, of which 4 were covered by multiple loci (0.3%).
+HiC_scaffold_335: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    369 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_336: analyzed 3 loci; filtered 5 loci; 8 loci seen.
+    693 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_341: analyzed 3 loci; filtered 4 loci; 7 loci seen.
+    750 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_349: analyzed 13 loci; filtered 15 loci; 28 loci seen.
+    3115 genomic sites, of which 246 were covered by multiple loci (7.9%).
+HiC_scaffold_352: analyzed 4 loci; filtered 7 loci; 11 loci seen.
+    763 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_354: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    460 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_358: analyzed 12 loci; filtered 26 loci; 38 loci seen.
+    3021 genomic sites, of which 584 were covered by multiple loci (19.3%).
+HiC_scaffold_359: analyzed 10 loci; filtered 13 loci; 23 loci seen.
+    1556 genomic sites, of which 511 were covered by multiple loci (32.8%).
+HiC_scaffold_364: analyzed 11 loci; filtered 12 loci; 23 loci seen.
+    1770 genomic sites, of which 311 were covered by multiple loci (17.6%).
+HiC_scaffold_365: analyzed 3 loci; filtered 13 loci; 16 loci seen.
+    644 genomic sites, of which 1 were covered by multiple loci (0.2%).
+HiC_scaffold_371: analyzed 4 loci; filtered 2 loci; 6 loci seen.
+    959 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_376: analyzed 10 loci; filtered 12 loci; 22 loci seen.
+    1834 genomic sites, of which 181 were covered by multiple loci (9.9%).
+HiC_scaffold_382: analyzed 11 loci; filtered 43 loci; 54 loci seen.
+    2588 genomic sites, of which 261 were covered by multiple loci (10.1%).
+HiC_scaffold_388: analyzed 3 loci; filtered 5 loci; 8 loci seen.
+    882 genomic sites, of which 4 were covered by multiple loci (0.5%).
+HiC_scaffold_392: analyzed 5 loci; filtered 19 loci; 24 loci seen.
+    1143 genomic sites, of which 5 were covered by multiple loci (0.4%).
+HiC_scaffold_394: analyzed 3 loci; filtered 7 loci; 10 loci seen.
+    829 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_395: analyzed 6 loci; filtered 6 loci; 12 loci seen.
+    944 genomic sites, of which 317 were covered by multiple loci (33.6%).
+HiC_scaffold_396: analyzed 4 loci; filtered 14 loci; 18 loci seen.
+    643 genomic sites, of which 240 were covered by multiple loci (37.3%).
+HiC_scaffold_399: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    368 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_400: analyzed 13 loci; filtered 22 loci; 35 loci seen.
+    2371 genomic sites, of which 529 were covered by multiple loci (22.3%).
+HiC_scaffold_408: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    625 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_411: analyzed 5 loci; filtered 14 loci; 19 loci seen.
+    825 genomic sites, of which 191 were covered by multiple loci (23.2%).
+HiC_scaffold_413: analyzed 6 loci; filtered 28 loci; 34 loci seen.
+    1230 genomic sites, of which 180 were covered by multiple loci (14.6%).
+HiC_scaffold_417: analyzed 11 loci; filtered 18 loci; 29 loci seen.
+    2429 genomic sites, of which 136 were covered by multiple loci (5.6%).
+HiC_scaffold_422: analyzed 7 loci; filtered 17 loci; 24 loci seen.
+    1471 genomic sites, of which 211 were covered by multiple loci (14.3%).
+HiC_scaffold_424: analyzed 13 loci; filtered 16 loci; 29 loci seen.
+    2830 genomic sites, of which 456 were covered by multiple loci (16.1%).
+HiC_scaffold_428: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    672 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_431: analyzed 4 loci; filtered 19 loci; 23 loci seen.
+    707 genomic sites, of which 109 were covered by multiple loci (15.4%).
+HiC_scaffold_432: analyzed 11 loci; filtered 17 loci; 28 loci seen.
+    2849 genomic sites, of which 193 were covered by multiple loci (6.8%).
+HiC_scaffold_434: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    350 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_436: analyzed 5 loci; filtered 6 loci; 11 loci seen.
+    1205 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_439: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    897 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_440: analyzed 5 loci; filtered 27 loci; 32 loci seen.
+    1361 genomic sites, of which 4 were covered by multiple loci (0.3%).
+HiC_scaffold_450: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    563 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_453: analyzed 8 loci; filtered 32 loci; 40 loci seen.
+    1933 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_463: analyzed 5 loci; filtered 6 loci; 11 loci seen.
+    865 genomic sites, of which 144 were covered by multiple loci (16.6%).
+HiC_scaffold_464: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    464 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_465: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    424 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_469: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    512 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_481: analyzed 6 loci; filtered 24 loci; 30 loci seen.
+    1217 genomic sites, of which 259 were covered by multiple loci (21.3%).
+HiC_scaffold_482: analyzed 5 loci; filtered 5 loci; 10 loci seen.
+    771 genomic sites, of which 120 were covered by multiple loci (15.6%).
+HiC_scaffold_484: analyzed 13 loci; filtered 11 loci; 24 loci seen.
+    2357 genomic sites, of which 364 were covered by multiple loci (15.4%).
+HiC_scaffold_492: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    425 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_496: analyzed 10 loci; filtered 25 loci; 35 loci seen.
+    2821 genomic sites, of which 8 were covered by multiple loci (0.3%).
+HiC_scaffold_497: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    606 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_500: analyzed 9 loci; filtered 24 loci; 33 loci seen.
+    2416 genomic sites, of which 71 were covered by multiple loci (2.9%).
+HiC_scaffold_502: analyzed 8 loci; filtered 26 loci; 34 loci seen.
+    2270 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_506: analyzed 3 loci; filtered 4 loci; 7 loci seen.
+    741 genomic sites, of which 4 were covered by multiple loci (0.5%).
+HiC_scaffold_508: analyzed 3 loci; filtered 1 loci; 4 loci seen.
+    566 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_512: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    556 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_515: analyzed 6 loci; filtered 8 loci; 14 loci seen.
+    1070 genomic sites, of which 160 were covered by multiple loci (15.0%).
+HiC_scaffold_516: analyzed 5 loci; filtered 18 loci; 23 loci seen.
+    1272 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_517: analyzed 6 loci; filtered 11 loci; 17 loci seen.
+    1660 genomic sites, of which 4 were covered by multiple loci (0.2%).
+HiC_scaffold_520: analyzed 7 loci; filtered 8 loci; 15 loci seen.
+    1570 genomic sites, of which 177 were covered by multiple loci (11.3%).
+HiC_scaffold_523: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    371 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_524: analyzed 13 loci; filtered 16 loci; 29 loci seen.
+    2861 genomic sites, of which 914 were covered by multiple loci (31.9%).
+HiC_scaffold_546: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    465 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_555: analyzed 3 loci; filtered 0 loci; 3 loci seen.
+    337 genomic sites, of which 161 were covered by multiple loci (47.8%).
+HiC_scaffold_561: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    398 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_570: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    423 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_576: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    430 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_580: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    456 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_588: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    445 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_614: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    369 genomic sites, of which 10 were covered by multiple loci (2.7%).
+HiC_scaffold_638: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    464 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_643: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    371 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_662: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    530 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_670: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    368 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_678: analyzed 3 loci; filtered 1 loci; 4 loci seen.
+    632 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_685: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    429 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_698: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    567 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_699: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    463 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_715: analyzed 8 loci; filtered 12 loci; 20 loci seen.
+    1686 genomic sites, of which 4 were covered by multiple loci (0.2%).
+HiC_scaffold_725: analyzed 5 loci; filtered 8 loci; 13 loci seen.
+    1240 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_729: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    145 genomic sites, of which 139 were covered by multiple loci (95.9%).
+HiC_scaffold_746: analyzed 3 loci; filtered 4 loci; 7 loci seen.
+    630 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_751: analyzed 3 loci; filtered 1 loci; 4 loci seen.
+    629 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_752: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    429 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_755: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    466 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_769: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    452 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_772: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    314 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_780: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    545 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_785: analyzed 3 loci; filtered 9 loci; 12 loci seen.
+    713 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_792: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    350 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_809: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    359 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_816: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    309 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_840: analyzed 3 loci; filtered 6 loci; 9 loci seen.
+    570 genomic sites, of which 4 were covered by multiple loci (0.7%).
+HiC_scaffold_866: analyzed 3 loci; filtered 8 loci; 11 loci seen.
+    648 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_879: analyzed 3 loci; filtered 6 loci; 9 loci seen.
+    539 genomic sites, of which 142 were covered by multiple loci (26.3%).
+HiC_scaffold_882: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    329 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_892: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    534 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_903: analyzed 7 loci; filtered 24 loci; 31 loci seen.
+    1402 genomic sites, of which 4 were covered by multiple loci (0.3%).
+HiC_scaffold_934: analyzed 4 loci; filtered 6 loci; 10 loci seen.
+    389 genomic sites, of which 265 were covered by multiple loci (68.1%).
+HiC_scaffold_972: analyzed 2 loci; filtered 11 loci; 13 loci seen.
+    355 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_978: analyzed 8 loci; filtered 41 loci; 49 loci seen.
+    1631 genomic sites, of which 216 were covered by multiple loci (13.2%).
+HiC_scaffold_988: analyzed 5 loci; filtered 8 loci; 13 loci seen.
+    1260 genomic sites, of which 4 were covered by multiple loci (0.3%).
+HiC_scaffold_1002: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    376 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1007: analyzed 3 loci; filtered 2 loci; 5 loci seen.
+    734 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1008: analyzed 4 loci; filtered 10 loci; 14 loci seen.
+    910 genomic sites, of which 255 were covered by multiple loci (28.0%).
+HiC_scaffold_1020: analyzed 8 loci; filtered 9 loci; 17 loci seen.
+    1861 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1027: analyzed 14 loci; filtered 31 loci; 45 loci seen.
+    2027 genomic sites, of which 717 were covered by multiple loci (35.4%).
+HiC_scaffold_1029: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    292 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1038: analyzed 2 loci; filtered 11 loci; 13 loci seen.
+    399 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1043: analyzed 3 loci; filtered 2 loci; 5 loci seen.
+    687 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1051: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    413 genomic sites, of which 23 were covered by multiple loci (5.6%).
+HiC_scaffold_1064: analyzed 3 loci; filtered 1 loci; 4 loci seen.
+    393 genomic sites, of which 119 were covered by multiple loci (30.3%).
+HiC_scaffold_1068: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    315 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1069: analyzed 5 loci; filtered 3 loci; 8 loci seen.
+    905 genomic sites, of which 1 were covered by multiple loci (0.1%).
+HiC_scaffold_1074: analyzed 5 loci; filtered 9 loci; 14 loci seen.
+    1044 genomic sites, of which 106 were covered by multiple loci (10.2%).
+HiC_scaffold_1079: analyzed 5 loci; filtered 3 loci; 8 loci seen.
+    960 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1080: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    326 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1102: analyzed 5 loci; filtered 12 loci; 17 loci seen.
+    1296 genomic sites, of which 4 were covered by multiple loci (0.3%).
+HiC_scaffold_1114: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    500 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1115: analyzed 12 loci; filtered 15 loci; 27 loci seen.
+    1991 genomic sites, of which 283 were covered by multiple loci (14.2%).
+HiC_scaffold_1144: analyzed 25 loci; filtered 21 loci; 46 loci seen.
+    4813 genomic sites, of which 344 were covered by multiple loci (7.1%).
+HiC_scaffold_1166: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    514 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1167: analyzed 6 loci; filtered 14 loci; 20 loci seen.
+    948 genomic sites, of which 317 were covered by multiple loci (33.4%).
+HiC_scaffold_1183: analyzed 6 loci; filtered 17 loci; 23 loci seen.
+    1370 genomic sites, of which 71 were covered by multiple loci (5.2%).
+HiC_scaffold_1199: analyzed 3 loci; filtered 11 loci; 14 loci seen.
+    601 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1208: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    409 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1220: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    458 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1222: analyzed 7 loci; filtered 9 loci; 16 loci seen.
+    1699 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1238: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    446 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1241: analyzed 6 loci; filtered 11 loci; 17 loci seen.
+    1181 genomic sites, of which 4 were covered by multiple loci (0.3%).
+HiC_scaffold_1242: analyzed 3 loci; filtered 0 loci; 3 loci seen.
+    706 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1246: analyzed 11 loci; filtered 12 loci; 23 loci seen.
+    2564 genomic sites, of which 86 were covered by multiple loci (3.4%).
+HiC_scaffold_1251: analyzed 4 loci; filtered 2 loci; 6 loci seen.
+    772 genomic sites, of which 4 were covered by multiple loci (0.5%).
+HiC_scaffold_1255: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    444 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1258: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    417 genomic sites, of which 4 were covered by multiple loci (1.0%).
+HiC_scaffold_1261: analyzed 3 loci; filtered 4 loci; 7 loci seen.
+    619 genomic sites, of which 4 were covered by multiple loci (0.6%).
+HiC_scaffold_1264: analyzed 3 loci; filtered 4 loci; 7 loci seen.
+    691 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1266: analyzed 4 loci; filtered 3 loci; 7 loci seen.
+    726 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1274: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    500 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1278: analyzed 5 loci; filtered 1 loci; 6 loci seen.
+    969 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1282: analyzed 19 loci; filtered 20 loci; 39 loci seen.
+    3591 genomic sites, of which 146 were covered by multiple loci (4.1%).
+HiC_scaffold_1298: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    427 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1301: analyzed 15 loci; filtered 13 loci; 28 loci seen.
+    2622 genomic sites, of which 310 were covered by multiple loci (11.8%).
+HiC_scaffold_1314: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    473 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1320: analyzed 3 loci; filtered 8 loci; 11 loci seen.
+    580 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1324: analyzed 8 loci; filtered 4 loci; 12 loci seen.
+    1756 genomic sites, of which 4 were covered by multiple loci (0.2%).
+HiC_scaffold_1330: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    375 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1331: analyzed 5 loci; filtered 18 loci; 23 loci seen.
+    1152 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1342: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    316 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1358: analyzed 4 loci; filtered 4 loci; 8 loci seen.
+    847 genomic sites, of which 4 were covered by multiple loci (0.5%).
+HiC_scaffold_1366: analyzed 2 loci; filtered 13 loci; 15 loci seen.
+    325 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1377: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    324 genomic sites, of which 4 were covered by multiple loci (1.2%).
+HiC_scaffold_1387: analyzed 5 loci; filtered 6 loci; 11 loci seen.
+    983 genomic sites, of which 4 were covered by multiple loci (0.4%).
+HiC_scaffold_1400: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    335 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1406: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    441 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1418: analyzed 4 loci; filtered 7 loci; 11 loci seen.
+    676 genomic sites, of which 179 were covered by multiple loci (26.5%).
+HiC_scaffold_1424: analyzed 3 loci; filtered 2 loci; 5 loci seen.
+    476 genomic sites, of which 159 were covered by multiple loci (33.4%).
+HiC_scaffold_1429: analyzed 3 loci; filtered 3 loci; 6 loci seen.
+    627 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1430: analyzed 3 loci; filtered 1 loci; 4 loci seen.
+    695 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1449: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    390 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1457: analyzed 24 loci; filtered 33 loci; 57 loci seen.
+    4248 genomic sites, of which 481 were covered by multiple loci (11.3%).
+HiC_scaffold_1465: analyzed 3 loci; filtered 4 loci; 7 loci seen.
+    747 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1472: analyzed 3 loci; filtered 3 loci; 6 loci seen.
+    656 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1473: analyzed 20 loci; filtered 5 loci; 25 loci seen.
+    3701 genomic sites, of which 301 were covered by multiple loci (8.1%).
+HiC_scaffold_1474: analyzed 12 loci; filtered 26 loci; 38 loci seen.
+    2715 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1482: analyzed 7 loci; filtered 5 loci; 12 loci seen.
+    1079 genomic sites, of which 4 were covered by multiple loci (0.4%).
+HiC_scaffold_1486: analyzed 4 loci; filtered 19 loci; 23 loci seen.
+    1252 genomic sites, of which 4 were covered by multiple loci (0.3%).
+HiC_scaffold_1496: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    303 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1497: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    406 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1504: analyzed 7 loci; filtered 9 loci; 16 loci seen.
+    1719 genomic sites, of which 4 were covered by multiple loci (0.2%).
+HiC_scaffold_1508: analyzed 6 loci; filtered 7 loci; 13 loci seen.
+    720 genomic sites, of which 441 were covered by multiple loci (61.3%).
+HiC_scaffold_1521: analyzed 2 loci; filtered 15 loci; 17 loci seen.
+    408 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1530: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    442 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1533: analyzed 3 loci; filtered 5 loci; 8 loci seen.
+    494 genomic sites, of which 4 were covered by multiple loci (0.8%).
+HiC_scaffold_1535: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    416 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1537: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    483 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1539: analyzed 14 loci; filtered 16 loci; 30 loci seen.
+    2644 genomic sites, of which 283 were covered by multiple loci (10.7%).
+HiC_scaffold_1540: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    320 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1541: analyzed 3 loci; filtered 5 loci; 8 loci seen.
+    613 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1558: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    479 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1569: analyzed 3 loci; filtered 6 loci; 9 loci seen.
+    846 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1570: analyzed 7 loci; filtered 14 loci; 21 loci seen.
+    1567 genomic sites, of which 4 were covered by multiple loci (0.3%).
+HiC_scaffold_1576: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    506 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1579: analyzed 5 loci; filtered 0 loci; 5 loci seen.
+    905 genomic sites, of which 4 were covered by multiple loci (0.4%).
+HiC_scaffold_1580: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    526 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1597: analyzed 3 loci; filtered 24 loci; 27 loci seen.
+    656 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1600: analyzed 2 loci; filtered 18 loci; 20 loci seen.
+    681 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1602: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    447 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1603: analyzed 3 loci; filtered 3 loci; 6 loci seen.
+    339 genomic sites, of which 205 were covered by multiple loci (60.5%).
+HiC_scaffold_1619: analyzed 5 loci; filtered 8 loci; 13 loci seen.
+    801 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1621: analyzed 3 loci; filtered 3 loci; 6 loci seen.
+    597 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1630: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    484 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1632: analyzed 8 loci; filtered 20 loci; 28 loci seen.
+    1807 genomic sites, of which 8 were covered by multiple loci (0.4%).
+HiC_scaffold_1653: analyzed 20 loci; filtered 12 loci; 32 loci seen.
+    3096 genomic sites, of which 885 were covered by multiple loci (28.6%).
+HiC_scaffold_1656: analyzed 4 loci; filtered 1 loci; 5 loci seen.
+    819 genomic sites, of which 4 were covered by multiple loci (0.5%).
+HiC_scaffold_1657: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    341 genomic sites, of which 4 were covered by multiple loci (1.2%).
+HiC_scaffold_1659: analyzed 5 loci; filtered 7 loci; 12 loci seen.
+    1176 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1660: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    414 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1664: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    386 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1674: analyzed 3 loci; filtered 3 loci; 6 loci seen.
+    743 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1687: analyzed 7 loci; filtered 3 loci; 10 loci seen.
+    1458 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1690: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    372 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1693: analyzed 8 loci; filtered 4 loci; 12 loci seen.
+    1418 genomic sites, of which 292 were covered by multiple loci (20.6%).
+HiC_scaffold_1694: analyzed 12 loci; filtered 14 loci; 26 loci seen.
+    2233 genomic sites, of which 215 were covered by multiple loci (9.6%).
+HiC_scaffold_1698: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    471 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1699: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    424 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1718: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    363 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1723: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    474 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1730: analyzed 4 loci; filtered 11 loci; 15 loci seen.
+    712 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1743: analyzed 8 loci; filtered 3 loci; 11 loci seen.
+    1821 genomic sites, of which 154 were covered by multiple loci (8.5%).
+HiC_scaffold_1747: analyzed 5 loci; filtered 7 loci; 12 loci seen.
+    1096 genomic sites, of which 4 were covered by multiple loci (0.4%).
+HiC_scaffold_1753: analyzed 5 loci; filtered 8 loci; 13 loci seen.
+    1093 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1758: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    339 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1762: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    543 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1764: analyzed 8 loci; filtered 3 loci; 11 loci seen.
+    1351 genomic sites, of which 283 were covered by multiple loci (20.9%).
+HiC_scaffold_1770: analyzed 4 loci; filtered 9 loci; 13 loci seen.
+    975 genomic sites, of which 4 were covered by multiple loci (0.4%).
+HiC_scaffold_1780: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    495 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1785: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    417 genomic sites, of which 4 were covered by multiple loci (1.0%).
+HiC_scaffold_1795: analyzed 8 loci; filtered 1 loci; 9 loci seen.
+    1741 genomic sites, of which 205 were covered by multiple loci (11.8%).
+HiC_scaffold_1799: analyzed 3 loci; filtered 10 loci; 13 loci seen.
+    644 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1807: analyzed 8 loci; filtered 20 loci; 28 loci seen.
+    1401 genomic sites, of which 148 were covered by multiple loci (10.6%).
+HiC_scaffold_1810: analyzed 4 loci; filtered 8 loci; 12 loci seen.
+    687 genomic sites, of which 110 were covered by multiple loci (16.0%).
+HiC_scaffold_1817: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    239 genomic sites, of which 135 were covered by multiple loci (56.5%).
+HiC_scaffold_1821: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    374 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1824: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    702 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1826: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    444 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1832: analyzed 4 loci; filtered 2 loci; 6 loci seen.
+    1054 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1837: analyzed 6 loci; filtered 4 loci; 10 loci seen.
+    1268 genomic sites, of which 163 were covered by multiple loci (12.9%).
+HiC_scaffold_1841: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    542 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1842: analyzed 3 loci; filtered 3 loci; 6 loci seen.
+    617 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1846: analyzed 4 loci; filtered 4 loci; 8 loci seen.
+    743 genomic sites, of which 4 were covered by multiple loci (0.5%).
+HiC_scaffold_1853: analyzed 3 loci; filtered 9 loci; 12 loci seen.
+    581 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1857: analyzed 4 loci; filtered 10 loci; 14 loci seen.
+    709 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1863: analyzed 3 loci; filtered 4 loci; 7 loci seen.
+    608 genomic sites, of which 4 were covered by multiple loci (0.7%).
+HiC_scaffold_1869: analyzed 4 loci; filtered 12 loci; 16 loci seen.
+    719 genomic sites, of which 148 were covered by multiple loci (20.6%).
+HiC_scaffold_1873: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    333 genomic sites, of which 4 were covered by multiple loci (1.2%).
+HiC_scaffold_1886: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    487 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1890: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    437 genomic sites, of which 4 were covered by multiple loci (0.9%).
+HiC_scaffold_1892: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    402 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1897: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    450 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1907: analyzed 7 loci; filtered 18 loci; 25 loci seen.
+    1514 genomic sites, of which 253 were covered by multiple loci (16.7%).
+HiC_scaffold_1909: analyzed 7 loci; filtered 14 loci; 21 loci seen.
+    1923 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1915: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    396 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1920: analyzed 4 loci; filtered 1 loci; 5 loci seen.
+    858 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1926: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    464 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1929: analyzed 4 loci; filtered 2 loci; 6 loci seen.
+    926 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1936: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    554 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1946: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    503 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1951: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    376 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1958: analyzed 3 loci; filtered 4 loci; 7 loci seen.
+    561 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1963: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    386 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1967: analyzed 9 loci; filtered 11 loci; 20 loci seen.
+    1919 genomic sites, of which 2 were covered by multiple loci (0.1%).
+HiC_scaffold_1979: analyzed 4 loci; filtered 4 loci; 8 loci seen.
+    575 genomic sites, of which 154 were covered by multiple loci (26.8%).
+HiC_scaffold_1981: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    363 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1986: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    444 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1988: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    407 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_1996: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    242 genomic sites, of which 163 were covered by multiple loci (67.4%).
+HiC_scaffold_2004: analyzed 6 loci; filtered 12 loci; 18 loci seen.
+    1132 genomic sites, of which 207 were covered by multiple loci (18.3%).
+HiC_scaffold_2005: analyzed 8 loci; filtered 10 loci; 18 loci seen.
+    1804 genomic sites, of which 170 were covered by multiple loci (9.4%).
+HiC_scaffold_2010: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    526 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2011: analyzed 4 loci; filtered 2 loci; 6 loci seen.
+    614 genomic sites, of which 149 were covered by multiple loci (24.3%).
+HiC_scaffold_2014: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    331 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2015: analyzed 19 loci; filtered 10 loci; 29 loci seen.
+    3409 genomic sites, of which 868 were covered by multiple loci (25.5%).
+HiC_scaffold_2018: analyzed 3 loci; filtered 5 loci; 8 loci seen.
+    632 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2019: analyzed 6 loci; filtered 4 loci; 10 loci seen.
+    1193 genomic sites, of which 160 were covered by multiple loci (13.4%).
+HiC_scaffold_2032: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    322 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2033: analyzed 4 loci; filtered 1 loci; 5 loci seen.
+    767 genomic sites, of which 4 were covered by multiple loci (0.5%).
+HiC_scaffold_2035: analyzed 10 loci; filtered 12 loci; 22 loci seen.
+    2217 genomic sites, of which 4 were covered by multiple loci (0.2%).
+HiC_scaffold_2038: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    401 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2047: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    511 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2051: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    302 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2052: analyzed 8 loci; filtered 13 loci; 21 loci seen.
+    1626 genomic sites, of which 145 were covered by multiple loci (8.9%).
+HiC_scaffold_2056: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    498 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2058: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    455 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2062: analyzed 3 loci; filtered 7 loci; 10 loci seen.
+    762 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2063: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    395 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2065: analyzed 8 loci; filtered 14 loci; 22 loci seen.
+    1740 genomic sites, of which 215 were covered by multiple loci (12.4%).
+HiC_scaffold_2071: analyzed 24 loci; filtered 15 loci; 39 loci seen.
+    5295 genomic sites, of which 340 were covered by multiple loci (6.4%).
+HiC_scaffold_2072: analyzed 7 loci; filtered 9 loci; 16 loci seen.
+    913 genomic sites, of which 351 were covered by multiple loci (38.4%).
+HiC_scaffold_2076: analyzed 5 loci; filtered 6 loci; 11 loci seen.
+    801 genomic sites, of which 541 were covered by multiple loci (67.5%).
+HiC_scaffold_2096: analyzed 8 loci; filtered 21 loci; 29 loci seen.
+    1663 genomic sites, of which 143 were covered by multiple loci (8.6%).
+HiC_scaffold_2097: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    507 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2101: analyzed 9 loci; filtered 20 loci; 29 loci seen.
+    1757 genomic sites, of which 280 were covered by multiple loci (15.9%).
+HiC_scaffold_2108: analyzed 3 loci; filtered 5 loci; 8 loci seen.
+    696 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2111: analyzed 3 loci; filtered 4 loci; 7 loci seen.
+    556 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2117: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    399 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2118: analyzed 5 loci; filtered 9 loci; 14 loci seen.
+    1200 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2119: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    491 genomic sites, of which 4 were covered by multiple loci (0.8%).
+HiC_scaffold_2131: analyzed 3 loci; filtered 2 loci; 5 loci seen.
+    653 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2137: analyzed 2 loci; filtered 17 loci; 19 loci seen.
+    549 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2138: analyzed 3 loci; filtered 3 loci; 6 loci seen.
+    431 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2140: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    426 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2143: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    480 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2148: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    385 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2151: analyzed 3 loci; filtered 5 loci; 8 loci seen.
+    505 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2155: analyzed 4 loci; filtered 7 loci; 11 loci seen.
+    938 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2164: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    558 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2166: analyzed 23 loci; filtered 18 loci; 41 loci seen.
+    4512 genomic sites, of which 471 were covered by multiple loci (10.4%).
+HiC_scaffold_2170: analyzed 8 loci; filtered 4 loci; 12 loci seen.
+    1666 genomic sites, of which 215 were covered by multiple loci (12.9%).
+HiC_scaffold_2171: analyzed 3 loci; filtered 4 loci; 7 loci seen.
+    620 genomic sites, of which 4 were covered by multiple loci (0.6%).
+HiC_scaffold_2184: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    449 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2194: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    704 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2196: analyzed 4 loci; filtered 6 loci; 10 loci seen.
+    1106 genomic sites, of which 4 were covered by multiple loci (0.4%).
+HiC_scaffold_2201: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    392 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2205: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    384 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2207: analyzed 3 loci; filtered 7 loci; 10 loci seen.
+    579 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2212: analyzed 3 loci; filtered 12 loci; 15 loci seen.
+    725 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2218: analyzed 6 loci; filtered 8 loci; 14 loci seen.
+    1440 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2224: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    386 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2230: analyzed 7 loci; filtered 9 loci; 16 loci seen.
+    1393 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2234: analyzed 5 loci; filtered 11 loci; 16 loci seen.
+    813 genomic sites, of which 4 were covered by multiple loci (0.5%).
+HiC_scaffold_2243: analyzed 2 loci; filtered 11 loci; 13 loci seen.
+    272 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2245: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    414 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2253: analyzed 10 loci; filtered 25 loci; 35 loci seen.
+    1460 genomic sites, of which 176 were covered by multiple loci (12.1%).
+HiC_scaffold_2262: analyzed 5 loci; filtered 5 loci; 10 loci seen.
+    704 genomic sites, of which 398 were covered by multiple loci (56.5%).
+HiC_scaffold_2266: analyzed 5 loci; filtered 4 loci; 9 loci seen.
+    654 genomic sites, of which 199 were covered by multiple loci (30.4%).
+HiC_scaffold_2268: analyzed 9 loci; filtered 4 loci; 13 loci seen.
+    1615 genomic sites, of which 235 were covered by multiple loci (14.6%).
+HiC_scaffold_2285: analyzed 5 loci; filtered 34 loci; 39 loci seen.
+    1300 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2302: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    524 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2313: analyzed 3 loci; filtered 6 loci; 9 loci seen.
+    550 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2322: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    442 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2323: analyzed 9 loci; filtered 6 loci; 15 loci seen.
+    1770 genomic sites, of which 4 were covered by multiple loci (0.2%).
+HiC_scaffold_2325: analyzed 4 loci; filtered 9 loci; 13 loci seen.
+    1034 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2329: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    409 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2331: analyzed 5 loci; filtered 3 loci; 8 loci seen.
+    1197 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2340: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    577 genomic sites, of which 4 were covered by multiple loci (0.7%).
+HiC_scaffold_2341: analyzed 3 loci; filtered 4 loci; 7 loci seen.
+    659 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2342: analyzed 4 loci; filtered 17 loci; 21 loci seen.
+    1001 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2349: analyzed 3 loci; filtered 7 loci; 10 loci seen.
+    528 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2352: analyzed 3 loci; filtered 3 loci; 6 loci seen.
+    483 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2353: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    439 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2370: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    515 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2375: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    464 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2379: analyzed 3 loci; filtered 5 loci; 8 loci seen.
+    689 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2384: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    150 genomic sites, of which 144 were covered by multiple loci (96.0%).
+HiC_scaffold_2386: analyzed 4 loci; filtered 10 loci; 14 loci seen.
+    778 genomic sites, of which 57 were covered by multiple loci (7.3%).
+HiC_scaffold_2387: analyzed 4 loci; filtered 5 loci; 9 loci seen.
+    990 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2393: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    178 genomic sites, of which 172 were covered by multiple loci (96.6%).
+HiC_scaffold_2396: analyzed 8 loci; filtered 17 loci; 25 loci seen.
+    2463 genomic sites, of which 4 were covered by multiple loci (0.2%).
+HiC_scaffold_2399: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    312 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2411: analyzed 3 loci; filtered 3 loci; 6 loci seen.
+    735 genomic sites, of which 4 were covered by multiple loci (0.5%).
+HiC_scaffold_2421: analyzed 3 loci; filtered 7 loci; 10 loci seen.
+    353 genomic sites, of which 133 were covered by multiple loci (37.7%).
+HiC_scaffold_2424: analyzed 2 loci; filtered 18 loci; 20 loci seen.
+    483 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2427: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    448 genomic sites, of which 4 were covered by multiple loci (0.9%).
+HiC_scaffold_2432: analyzed 6 loci; filtered 6 loci; 12 loci seen.
+    1272 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2434: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    565 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2438: analyzed 4 loci; filtered 3 loci; 7 loci seen.
+    801 genomic sites, of which 235 were covered by multiple loci (29.3%).
+HiC_scaffold_2439: analyzed 6 loci; filtered 6 loci; 12 loci seen.
+    1495 genomic sites, of which 4 were covered by multiple loci (0.3%).
+HiC_scaffold_2443: analyzed 7 loci; filtered 24 loci; 31 loci seen.
+    1187 genomic sites, of which 156 were covered by multiple loci (13.1%).
+HiC_scaffold_2450: analyzed 4 loci; filtered 6 loci; 10 loci seen.
+    887 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2452: analyzed 5 loci; filtered 12 loci; 17 loci seen.
+    1289 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2453: analyzed 3 loci; filtered 5 loci; 8 loci seen.
+    700 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2457: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    275 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2459: analyzed 3 loci; filtered 3 loci; 6 loci seen.
+    545 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2469: analyzed 4 loci; filtered 6 loci; 10 loci seen.
+    1122 genomic sites, of which 4 were covered by multiple loci (0.4%).
+HiC_scaffold_2482: analyzed 5 loci; filtered 4 loci; 9 loci seen.
+    1188 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2488: analyzed 10 loci; filtered 15 loci; 25 loci seen.
+    2232 genomic sites, of which 4 were covered by multiple loci (0.2%).
+HiC_scaffold_2489: analyzed 7 loci; filtered 13 loci; 20 loci seen.
+    1559 genomic sites, of which 117 were covered by multiple loci (7.5%).
+HiC_scaffold_2490: analyzed 3 loci; filtered 11 loci; 14 loci seen.
+    758 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2494: analyzed 6 loci; filtered 22 loci; 28 loci seen.
+    1509 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2496: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    414 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2499: analyzed 3 loci; filtered 12 loci; 15 loci seen.
+    726 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2502: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    401 genomic sites, of which 4 were covered by multiple loci (1.0%).
+HiC_scaffold_2503: analyzed 5 loci; filtered 5 loci; 10 loci seen.
+    1263 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2504: analyzed 6 loci; filtered 9 loci; 15 loci seen.
+    1438 genomic sites, of which 8 were covered by multiple loci (0.6%).
+HiC_scaffold_2508: analyzed 7 loci; filtered 7 loci; 14 loci seen.
+    1200 genomic sites, of which 223 were covered by multiple loci (18.6%).
+HiC_scaffold_2513: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    398 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2517: analyzed 4 loci; filtered 5 loci; 9 loci seen.
+    718 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2519: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    387 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2526: analyzed 4 loci; filtered 5 loci; 9 loci seen.
+    754 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2529: analyzed 2 loci; filtered 12 loci; 14 loci seen.
+    457 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2531: analyzed 3 loci; filtered 12 loci; 15 loci seen.
+    584 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2532: analyzed 3 loci; filtered 3 loci; 6 loci seen.
+    572 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2535: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    440 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2537: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    442 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2548: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    286 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2549: analyzed 4 loci; filtered 1 loci; 5 loci seen.
+    716 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2550: analyzed 5 loci; filtered 5 loci; 10 loci seen.
+    1081 genomic sites, of which 4 were covered by multiple loci (0.4%).
+HiC_scaffold_2556: analyzed 7 loci; filtered 8 loci; 15 loci seen.
+    1569 genomic sites, of which 4 were covered by multiple loci (0.3%).
+HiC_scaffold_2559: analyzed 4 loci; filtered 0 loci; 4 loci seen.
+    683 genomic sites, of which 4 were covered by multiple loci (0.6%).
+HiC_scaffold_2561: analyzed 5 loci; filtered 14 loci; 19 loci seen.
+    879 genomic sites, of which 137 were covered by multiple loci (15.6%).
+HiC_scaffold_2569: analyzed 5 loci; filtered 28 loci; 33 loci seen.
+    1313 genomic sites, of which 4 were covered by multiple loci (0.3%).
+HiC_scaffold_2576: analyzed 4 loci; filtered 7 loci; 11 loci seen.
+    724 genomic sites, of which 1 were covered by multiple loci (0.1%).
+HiC_scaffold_2583: analyzed 6 loci; filtered 8 loci; 14 loci seen.
+    1738 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2585: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    388 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2586: analyzed 10 loci; filtered 15 loci; 25 loci seen.
+    1979 genomic sites, of which 220 were covered by multiple loci (11.1%).
+HiC_scaffold_2590: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    391 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2593: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    348 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2603: analyzed 6 loci; filtered 9 loci; 15 loci seen.
+    1449 genomic sites, of which 4 were covered by multiple loci (0.3%).
+HiC_scaffold_2607: analyzed 7 loci; filtered 19 loci; 26 loci seen.
+    1581 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2608: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    448 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2609: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    326 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2615: analyzed 3 loci; filtered 14 loci; 17 loci seen.
+    846 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2616: analyzed 2 loci; filtered 23 loci; 25 loci seen.
+    575 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2617: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    531 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2622: analyzed 3 loci; filtered 1 loci; 4 loci seen.
+    688 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2623: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    600 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2635: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    528 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2641: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    437 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2645: analyzed 7 loci; filtered 10 loci; 17 loci seen.
+    1774 genomic sites, of which 4 were covered by multiple loci (0.2%).
+HiC_scaffold_2647: analyzed 3 loci; filtered 1 loci; 4 loci seen.
+    590 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2649: analyzed 3 loci; filtered 3 loci; 6 loci seen.
+    563 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2658: analyzed 5 loci; filtered 12 loci; 17 loci seen.
+    1229 genomic sites, of which 4 were covered by multiple loci (0.3%).
+HiC_scaffold_2659: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    342 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2660: analyzed 9 loci; filtered 9 loci; 18 loci seen.
+    2045 genomic sites, of which 14 were covered by multiple loci (0.7%).
+HiC_scaffold_2662: analyzed 7 loci; filtered 9 loci; 16 loci seen.
+    1471 genomic sites, of which 438 were covered by multiple loci (29.8%).
+HiC_scaffold_2663: analyzed 3 loci; filtered 12 loci; 15 loci seen.
+    631 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2672: analyzed 3 loci; filtered 0 loci; 3 loci seen.
+    498 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2673: analyzed 4 loci; filtered 4 loci; 8 loci seen.
+    793 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2674: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    504 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2677: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    372 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2682: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    535 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2690: analyzed 10 loci; filtered 10 loci; 20 loci seen.
+    1731 genomic sites, of which 1114 were covered by multiple loci (64.4%).
+HiC_scaffold_2698: analyzed 2 loci; filtered 13 loci; 15 loci seen.
+    427 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2699: analyzed 3 loci; filtered 3 loci; 6 loci seen.
+    585 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2707: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    306 genomic sites, of which 178 were covered by multiple loci (58.2%).
+HiC_scaffold_2708: analyzed 6 loci; filtered 3 loci; 9 loci seen.
+    1259 genomic sites, of which 8 were covered by multiple loci (0.6%).
+HiC_scaffold_2716: analyzed 3 loci; filtered 1 loci; 4 loci seen.
+    459 genomic sites, of which 171 were covered by multiple loci (37.3%).
+HiC_scaffold_2717: analyzed 7 loci; filtered 15 loci; 22 loci seen.
+    1285 genomic sites, of which 168 were covered by multiple loci (13.1%).
+HiC_scaffold_2726: analyzed 4 loci; filtered 3 loci; 7 loci seen.
+    662 genomic sites, of which 194 were covered by multiple loci (29.3%).
+HiC_scaffold_2731: analyzed 4 loci; filtered 11 loci; 15 loci seen.
+    912 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2736: analyzed 2 loci; filtered 13 loci; 15 loci seen.
+    485 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2742: analyzed 4 loci; filtered 5 loci; 9 loci seen.
+    934 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2745: analyzed 5 loci; filtered 2 loci; 7 loci seen.
+    718 genomic sites, of which 197 were covered by multiple loci (27.4%).
+HiC_scaffold_2751: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    426 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2752: analyzed 6 loci; filtered 5 loci; 11 loci seen.
+    1335 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2755: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    412 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2757: analyzed 3 loci; filtered 4 loci; 7 loci seen.
+    695 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2769: analyzed 5 loci; filtered 14 loci; 19 loci seen.
+    1245 genomic sites, of which 149 were covered by multiple loci (12.0%).
+HiC_scaffold_2780: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    443 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2783: analyzed 3 loci; filtered 3 loci; 6 loci seen.
+    698 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2795: analyzed 5 loci; filtered 19 loci; 24 loci seen.
+    1396 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2796: analyzed 3 loci; filtered 10 loci; 13 loci seen.
+    709 genomic sites, of which 4 were covered by multiple loci (0.6%).
+HiC_scaffold_2800: analyzed 3 loci; filtered 4 loci; 7 loci seen.
+    714 genomic sites, of which 4 were covered by multiple loci (0.6%).
+HiC_scaffold_2810: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    391 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2813: analyzed 4 loci; filtered 20 loci; 24 loci seen.
+    896 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2814: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    153 genomic sites, of which 147 were covered by multiple loci (96.1%).
+HiC_scaffold_2817: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    481 genomic sites, of which 4 were covered by multiple loci (0.8%).
+HiC_scaffold_2818: analyzed 7 loci; filtered 12 loci; 19 loci seen.
+    1107 genomic sites, of which 144 were covered by multiple loci (13.0%).
+HiC_scaffold_2819: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    533 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2823: analyzed 7 loci; filtered 7 loci; 14 loci seen.
+    1326 genomic sites, of which 156 were covered by multiple loci (11.8%).
+HiC_scaffold_2833: analyzed 6 loci; filtered 10 loci; 16 loci seen.
+    1252 genomic sites, of which 154 were covered by multiple loci (12.3%).
+HiC_scaffold_2834: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    609 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2837: analyzed 3 loci; filtered 4 loci; 7 loci seen.
+    600 genomic sites, of which 84 were covered by multiple loci (14.0%).
+HiC_scaffold_2839: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    485 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2843: analyzed 5 loci; filtered 14 loci; 19 loci seen.
+    1562 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2844: analyzed 3 loci; filtered 6 loci; 9 loci seen.
+    607 genomic sites, of which 4 were covered by multiple loci (0.7%).
+HiC_scaffold_2845: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    373 genomic sites, of which 4 were covered by multiple loci (1.1%).
+HiC_scaffold_2848: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    373 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2851: analyzed 3 loci; filtered 13 loci; 16 loci seen.
+    801 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2852: analyzed 4 loci; filtered 7 loci; 11 loci seen.
+    1162 genomic sites, of which 4 were covered by multiple loci (0.3%).
+HiC_scaffold_2858: analyzed 4 loci; filtered 2 loci; 6 loci seen.
+    858 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2861: analyzed 6 loci; filtered 3 loci; 9 loci seen.
+    931 genomic sites, of which 165 were covered by multiple loci (17.7%).
+HiC_scaffold_2869: analyzed 4 loci; filtered 13 loci; 17 loci seen.
+    820 genomic sites, of which 13 were covered by multiple loci (1.6%).
+HiC_scaffold_2870: analyzed 5 loci; filtered 9 loci; 14 loci seen.
+    1397 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2875: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    459 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2884: analyzed 2 loci; filtered 11 loci; 13 loci seen.
+    381 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2888: analyzed 6 loci; filtered 12 loci; 18 loci seen.
+    1530 genomic sites, of which 4 were covered by multiple loci (0.3%).
+HiC_scaffold_2899: analyzed 5 loci; filtered 10 loci; 15 loci seen.
+    1404 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2901: analyzed 8 loci; filtered 8 loci; 16 loci seen.
+    1411 genomic sites, of which 149 were covered by multiple loci (10.6%).
+HiC_scaffold_2905: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    354 genomic sites, of which 4 were covered by multiple loci (1.1%).
+HiC_scaffold_2907: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    410 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2908: analyzed 3 loci; filtered 6 loci; 9 loci seen.
+    852 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2909: analyzed 6 loci; filtered 7 loci; 13 loci seen.
+    1701 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2910: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    389 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2920: analyzed 4 loci; filtered 5 loci; 9 loci seen.
+    830 genomic sites, of which 141 were covered by multiple loci (17.0%).
+HiC_scaffold_2921: analyzed 3 loci; filtered 2 loci; 5 loci seen.
+    471 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2926: analyzed 4 loci; filtered 15 loci; 19 loci seen.
+    903 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2930: analyzed 3 loci; filtered 11 loci; 14 loci seen.
+    639 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2933: analyzed 3 loci; filtered 5 loci; 8 loci seen.
+    594 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2935: analyzed 3 loci; filtered 11 loci; 14 loci seen.
+    821 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2942: analyzed 3 loci; filtered 7 loci; 10 loci seen.
+    737 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2946: analyzed 9 loci; filtered 22 loci; 31 loci seen.
+    1585 genomic sites, of which 243 were covered by multiple loci (15.3%).
+HiC_scaffold_2947: analyzed 3 loci; filtered 2 loci; 5 loci seen.
+    629 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2950: analyzed 6 loci; filtered 22 loci; 28 loci seen.
+    1155 genomic sites, of which 479 were covered by multiple loci (41.5%).
+HiC_scaffold_2953: analyzed 3 loci; filtered 1 loci; 4 loci seen.
+    663 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2957: analyzed 5 loci; filtered 4 loci; 9 loci seen.
+    1312 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2958: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    360 genomic sites, of which 190 were covered by multiple loci (52.8%).
+HiC_scaffold_2959: analyzed 3 loci; filtered 15 loci; 18 loci seen.
+    545 genomic sites, of which 255 were covered by multiple loci (46.8%).
+HiC_scaffold_2961: analyzed 7 loci; filtered 4 loci; 11 loci seen.
+    1231 genomic sites, of which 12 were covered by multiple loci (1.0%).
+HiC_scaffold_2964: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    402 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2970: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    435 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2974: analyzed 4 loci; filtered 17 loci; 21 loci seen.
+    1146 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2975: analyzed 4 loci; filtered 9 loci; 13 loci seen.
+    1008 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2978: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    568 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_2980: analyzed 6 loci; filtered 1 loci; 7 loci seen.
+    1322 genomic sites, of which 4 were covered by multiple loci (0.3%).
+HiC_scaffold_2985: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    151 genomic sites, of which 145 were covered by multiple loci (96.0%).
+HiC_scaffold_2988: analyzed 7 loci; filtered 5 loci; 12 loci seen.
+    1151 genomic sites, of which 524 were covered by multiple loci (45.5%).
+HiC_scaffold_2993: analyzed 4 loci; filtered 14 loci; 18 loci seen.
+    917 genomic sites, of which 77 were covered by multiple loci (8.4%).
+HiC_scaffold_2997: analyzed 5 loci; filtered 9 loci; 14 loci seen.
+    1146 genomic sites, of which 8 were covered by multiple loci (0.7%).
+HiC_scaffold_3000: analyzed 3 loci; filtered 8 loci; 11 loci seen.
+    567 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3003: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    705 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3004: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    454 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3010: analyzed 4 loci; filtered 4 loci; 8 loci seen.
+    755 genomic sites, of which 1 were covered by multiple loci (0.1%).
+HiC_scaffold_3013: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    644 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3015: analyzed 8 loci; filtered 4 loci; 12 loci seen.
+    1315 genomic sites, of which 153 were covered by multiple loci (11.6%).
+HiC_scaffold_3016: analyzed 5 loci; filtered 17 loci; 22 loci seen.
+    1381 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3020: analyzed 5 loci; filtered 12 loci; 17 loci seen.
+    1132 genomic sites, of which 4 were covered by multiple loci (0.4%).
+HiC_scaffold_3025: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    455 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3032: analyzed 10 loci; filtered 14 loci; 24 loci seen.
+    2955 genomic sites, of which 12 were covered by multiple loci (0.4%).
+HiC_scaffold_3039: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    439 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3045: analyzed 2 loci; filtered 12 loci; 14 loci seen.
+    448 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3046: analyzed 6 loci; filtered 8 loci; 14 loci seen.
+    1265 genomic sites, of which 4 were covered by multiple loci (0.3%).
+HiC_scaffold_3047: analyzed 6 loci; filtered 12 loci; 18 loci seen.
+    1220 genomic sites, of which 273 were covered by multiple loci (22.4%).
+HiC_scaffold_3050: analyzed 5 loci; filtered 15 loci; 20 loci seen.
+    1323 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3053: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    569 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3054: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    329 genomic sites, of which 4 were covered by multiple loci (1.2%).
+HiC_scaffold_3060: analyzed 3 loci; filtered 7 loci; 10 loci seen.
+    852 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3066: analyzed 3 loci; filtered 8 loci; 11 loci seen.
+    784 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3069: analyzed 5 loci; filtered 16 loci; 21 loci seen.
+    1509 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3074: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    500 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3078: analyzed 3 loci; filtered 6 loci; 9 loci seen.
+    620 genomic sites, of which 4 were covered by multiple loci (0.6%).
+HiC_scaffold_3086: analyzed 5 loci; filtered 18 loci; 23 loci seen.
+    930 genomic sites, of which 4 were covered by multiple loci (0.4%).
+HiC_scaffold_3097: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    374 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3099: analyzed 6 loci; filtered 9 loci; 15 loci seen.
+    851 genomic sites, of which 170 were covered by multiple loci (20.0%).
+HiC_scaffold_3102: analyzed 3 loci; filtered 7 loci; 10 loci seen.
+    833 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3104: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    571 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3113: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    391 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3120: analyzed 4 loci; filtered 0 loci; 4 loci seen.
+    1141 genomic sites, of which 4 were covered by multiple loci (0.4%).
+HiC_scaffold_3122: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    462 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3124: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    395 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3127: analyzed 5 loci; filtered 18 loci; 23 loci seen.
+    1035 genomic sites, of which 98 were covered by multiple loci (9.5%).
+HiC_scaffold_3135: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    457 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3136: analyzed 8 loci; filtered 8 loci; 16 loci seen.
+    1274 genomic sites, of which 657 were covered by multiple loci (51.6%).
+HiC_scaffold_3140: analyzed 3 loci; filtered 5 loci; 8 loci seen.
+    562 genomic sites, of which 1 were covered by multiple loci (0.2%).
+HiC_scaffold_3147: analyzed 4 loci; filtered 4 loci; 8 loci seen.
+    884 genomic sites, of which 108 were covered by multiple loci (12.2%).
+HiC_scaffold_3148: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    381 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3150: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    464 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3151: analyzed 7 loci; filtered 6 loci; 13 loci seen.
+    2154 genomic sites, of which 237 were covered by multiple loci (11.0%).
+HiC_scaffold_3152: analyzed 5 loci; filtered 15 loci; 20 loci seen.
+    1087 genomic sites, of which 261 were covered by multiple loci (24.0%).
+HiC_scaffold_3153: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    490 genomic sites, of which 4 were covered by multiple loci (0.8%).
+HiC_scaffold_3158: analyzed 3 loci; filtered 9 loci; 12 loci seen.
+    674 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3162: analyzed 5 loci; filtered 14 loci; 19 loci seen.
+    948 genomic sites, of which 152 were covered by multiple loci (16.0%).
+HiC_scaffold_3166: analyzed 3 loci; filtered 5 loci; 8 loci seen.
+    503 genomic sites, of which 4 were covered by multiple loci (0.8%).
+HiC_scaffold_3168: analyzed 3 loci; filtered 4 loci; 7 loci seen.
+    406 genomic sites, of which 245 were covered by multiple loci (60.3%).
+HiC_scaffold_3169: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    442 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3179: analyzed 3 loci; filtered 11 loci; 14 loci seen.
+    563 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3183: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    704 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3184: analyzed 10 loci; filtered 18 loci; 28 loci seen.
+    1965 genomic sites, of which 406 were covered by multiple loci (20.7%).
+HiC_scaffold_3188: analyzed 4 loci; filtered 25 loci; 29 loci seen.
+    982 genomic sites, of which 273 were covered by multiple loci (27.8%).
+HiC_scaffold_3192: analyzed 5 loci; filtered 13 loci; 18 loci seen.
+    1315 genomic sites, of which 4 were covered by multiple loci (0.3%).
+HiC_scaffold_3194: analyzed 3 loci; filtered 0 loci; 3 loci seen.
+    679 genomic sites, of which 4 were covered by multiple loci (0.6%).
+HiC_scaffold_3196: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    399 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3199: analyzed 10 loci; filtered 27 loci; 37 loci seen.
+    2744 genomic sites, of which 281 were covered by multiple loci (10.2%).
+HiC_scaffold_3200: analyzed 2 loci; filtered 11 loci; 13 loci seen.
+    442 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3203: analyzed 11 loci; filtered 6 loci; 17 loci seen.
+    1756 genomic sites, of which 523 were covered by multiple loci (29.8%).
+HiC_scaffold_3207: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    525 genomic sites, of which 4 were covered by multiple loci (0.8%).
+HiC_scaffold_3208: analyzed 4 loci; filtered 13 loci; 17 loci seen.
+    1275 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3211: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    549 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3221: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    404 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3226: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    153 genomic sites, of which 147 were covered by multiple loci (96.1%).
+HiC_scaffold_3228: analyzed 3 loci; filtered 6 loci; 9 loci seen.
+    387 genomic sites, of which 141 were covered by multiple loci (36.4%).
+HiC_scaffold_3237: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    693 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3239: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    319 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3240: analyzed 4 loci; filtered 5 loci; 9 loci seen.
+    584 genomic sites, of which 207 were covered by multiple loci (35.4%).
+HiC_scaffold_3250: analyzed 5 loci; filtered 22 loci; 27 loci seen.
+    801 genomic sites, of which 318 were covered by multiple loci (39.7%).
+HiC_scaffold_3252: analyzed 4 loci; filtered 2 loci; 6 loci seen.
+    969 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3253: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    570 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3255: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    474 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3260: analyzed 4 loci; filtered 11 loci; 15 loci seen.
+    974 genomic sites, of which 4 were covered by multiple loci (0.4%).
+HiC_scaffold_3262: analyzed 7 loci; filtered 9 loci; 16 loci seen.
+    1802 genomic sites, of which 12 were covered by multiple loci (0.7%).
+HiC_scaffold_3264: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    567 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3265: analyzed 3 loci; filtered 4 loci; 7 loci seen.
+    723 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3276: analyzed 3 loci; filtered 5 loci; 8 loci seen.
+    831 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3282: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    423 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3286: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    421 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3290: analyzed 4 loci; filtered 7 loci; 11 loci seen.
+    919 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3291: analyzed 2 loci; filtered 15 loci; 17 loci seen.
+    287 genomic sites, of which 195 were covered by multiple loci (67.9%).
+HiC_scaffold_3295: analyzed 5 loci; filtered 9 loci; 14 loci seen.
+    1139 genomic sites, of which 192 were covered by multiple loci (16.9%).
+HiC_scaffold_3306: analyzed 2 loci; filtered 15 loci; 17 loci seen.
+    425 genomic sites, of which 1 were covered by multiple loci (0.2%).
+HiC_scaffold_3313: analyzed 3 loci; filtered 6 loci; 9 loci seen.
+    584 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3321: analyzed 3 loci; filtered 12 loci; 15 loci seen.
+    864 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3326: analyzed 7 loci; filtered 12 loci; 19 loci seen.
+    1240 genomic sites, of which 193 were covered by multiple loci (15.6%).
+HiC_scaffold_3327: analyzed 6 loci; filtered 5 loci; 11 loci seen.
+    920 genomic sites, of which 302 were covered by multiple loci (32.8%).
+HiC_scaffold_3330: analyzed 3 loci; filtered 14 loci; 17 loci seen.
+    914 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3333: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    567 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3337: analyzed 5 loci; filtered 4 loci; 9 loci seen.
+    742 genomic sites, of which 224 were covered by multiple loci (30.2%).
+HiC_scaffold_3344: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    396 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3345: analyzed 3 loci; filtered 9 loci; 12 loci seen.
+    692 genomic sites, of which 4 were covered by multiple loci (0.6%).
+HiC_scaffold_3349: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    568 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3351: analyzed 5 loci; filtered 6 loci; 11 loci seen.
+    747 genomic sites, of which 119 were covered by multiple loci (15.9%).
+HiC_scaffold_3354: analyzed 3 loci; filtered 4 loci; 7 loci seen.
+    731 genomic sites, of which 4 were covered by multiple loci (0.5%).
+HiC_scaffold_3356: analyzed 4 loci; filtered 5 loci; 9 loci seen.
+    924 genomic sites, of which 4 were covered by multiple loci (0.4%).
+HiC_scaffold_3359: analyzed 4 loci; filtered 1 loci; 5 loci seen.
+    1057 genomic sites, of which 4 were covered by multiple loci (0.4%).
+HiC_scaffold_3362: analyzed 3 loci; filtered 1 loci; 4 loci seen.
+    665 genomic sites, of which 4 were covered by multiple loci (0.6%).
+HiC_scaffold_3371: analyzed 4 loci; filtered 5 loci; 9 loci seen.
+    967 genomic sites, of which 4 were covered by multiple loci (0.4%).
+HiC_scaffold_3372: analyzed 4 loci; filtered 9 loci; 13 loci seen.
+    1162 genomic sites, of which 4 were covered by multiple loci (0.3%).
+HiC_scaffold_3373: analyzed 4 loci; filtered 16 loci; 20 loci seen.
+    921 genomic sites, of which 132 were covered by multiple loci (14.3%).
+HiC_scaffold_3376: analyzed 2 loci; filtered 25 loci; 27 loci seen.
+    559 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3392: analyzed 3 loci; filtered 4 loci; 7 loci seen.
+    624 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3397: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    453 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3400: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    490 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3401: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    408 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3412: analyzed 3 loci; filtered 14 loci; 17 loci seen.
+    873 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3413: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    475 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3415: analyzed 4 loci; filtered 13 loci; 17 loci seen.
+    1100 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3418: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    568 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3421: analyzed 3 loci; filtered 7 loci; 10 loci seen.
+    548 genomic sites, of which 4 were covered by multiple loci (0.7%).
+HiC_scaffold_3423: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    380 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3424: analyzed 5 loci; filtered 6 loci; 11 loci seen.
+    1060 genomic sites, of which 344 were covered by multiple loci (32.5%).
+HiC_scaffold_3426: analyzed 4 loci; filtered 5 loci; 9 loci seen.
+    639 genomic sites, of which 187 were covered by multiple loci (29.3%).
+HiC_scaffold_3428: analyzed 3 loci; filtered 6 loci; 9 loci seen.
+    600 genomic sites, of which 148 were covered by multiple loci (24.7%).
+HiC_scaffold_3431: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    449 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3433: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    478 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3437: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    644 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3445: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    563 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3447: analyzed 6 loci; filtered 23 loci; 29 loci seen.
+    1347 genomic sites, of which 547 were covered by multiple loci (40.6%).
+HiC_scaffold_3449: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    297 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3452: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    580 genomic sites, of which 4 were covered by multiple loci (0.7%).
+HiC_scaffold_3453: analyzed 3 loci; filtered 7 loci; 10 loci seen.
+    583 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3454: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    415 genomic sites, of which 4 were covered by multiple loci (1.0%).
+HiC_scaffold_3463: analyzed 3 loci; filtered 5 loci; 8 loci seen.
+    653 genomic sites, of which 202 were covered by multiple loci (30.9%).
+HiC_scaffold_3465: analyzed 7 loci; filtered 14 loci; 21 loci seen.
+    1540 genomic sites, of which 8 were covered by multiple loci (0.5%).
+HiC_scaffold_3466: analyzed 5 loci; filtered 4 loci; 9 loci seen.
+    1026 genomic sites, of which 209 were covered by multiple loci (20.4%).
+HiC_scaffold_3471: analyzed 3 loci; filtered 12 loci; 15 loci seen.
+    593 genomic sites, of which 263 were covered by multiple loci (44.4%).
+HiC_scaffold_3486: analyzed 4 loci; filtered 11 loci; 15 loci seen.
+    1007 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3490: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    517 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3494: analyzed 4 loci; filtered 4 loci; 8 loci seen.
+    732 genomic sites, of which 218 were covered by multiple loci (29.8%).
+HiC_scaffold_3495: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    473 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3507: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    324 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3509: analyzed 4 loci; filtered 8 loci; 12 loci seen.
+    929 genomic sites, of which 4 were covered by multiple loci (0.4%).
+HiC_scaffold_3512: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    450 genomic sites, of which 4 were covered by multiple loci (0.9%).
+HiC_scaffold_3513: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    586 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3529: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    605 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3530: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    566 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3531: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    380 genomic sites, of which 4 were covered by multiple loci (1.1%).
+HiC_scaffold_3535: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    627 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3539: analyzed 6 loci; filtered 15 loci; 21 loci seen.
+    1238 genomic sites, of which 436 were covered by multiple loci (35.2%).
+HiC_scaffold_3547: analyzed 6 loci; filtered 4 loci; 10 loci seen.
+    1727 genomic sites, of which 9 were covered by multiple loci (0.5%).
+HiC_scaffold_3551: analyzed 5 loci; filtered 13 loci; 18 loci seen.
+    1386 genomic sites, of which 190 were covered by multiple loci (13.7%).
+HiC_scaffold_3561: analyzed 3 loci; filtered 15 loci; 18 loci seen.
+    852 genomic sites, of which 4 were covered by multiple loci (0.5%).
+HiC_scaffold_3568: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    533 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3570: analyzed 3 loci; filtered 9 loci; 12 loci seen.
+    682 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3573: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    569 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3579: analyzed 4 loci; filtered 10 loci; 14 loci seen.
+    950 genomic sites, of which 156 were covered by multiple loci (16.4%).
+HiC_scaffold_3586: analyzed 3 loci; filtered 0 loci; 3 loci seen.
+    677 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3592: analyzed 2 loci; filtered 16 loci; 18 loci seen.
+    511 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3602: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    501 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3604: analyzed 3 loci; filtered 4 loci; 7 loci seen.
+    777 genomic sites, of which 4 were covered by multiple loci (0.5%).
+HiC_scaffold_3609: analyzed 2 loci; filtered 11 loci; 13 loci seen.
+    570 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3617: analyzed 3 loci; filtered 0 loci; 3 loci seen.
+    900 genomic sites, of which 4 were covered by multiple loci (0.4%).
+HiC_scaffold_3624: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    518 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3634: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    419 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3636: analyzed 3 loci; filtered 3 loci; 6 loci seen.
+    649 genomic sites, of which 203 were covered by multiple loci (31.3%).
+HiC_scaffold_3644: analyzed 4 loci; filtered 13 loci; 17 loci seen.
+    1086 genomic sites, of which 20 were covered by multiple loci (1.8%).
+HiC_scaffold_3649: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    499 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3651: analyzed 2 loci; filtered 12 loci; 14 loci seen.
+    174 genomic sites, of which 168 were covered by multiple loci (96.6%).
+HiC_scaffold_3661: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    490 genomic sites, of which 4 were covered by multiple loci (0.8%).
+HiC_scaffold_3668: analyzed 3 loci; filtered 10 loci; 13 loci seen.
+    683 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3672: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    521 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3677: analyzed 3 loci; filtered 2 loci; 5 loci seen.
+    720 genomic sites, of which 62 were covered by multiple loci (8.6%).
+HiC_scaffold_3681: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    355 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3686: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    451 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3700: analyzed 2 loci; filtered 11 loci; 13 loci seen.
+    407 genomic sites, of which 72 were covered by multiple loci (17.7%).
+HiC_scaffold_3713: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    344 genomic sites, of which 285 were covered by multiple loci (82.8%).
+HiC_scaffold_3741: analyzed 2 loci; filtered 20 loci; 22 loci seen.
+    454 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3766: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    505 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3775: analyzed 2 loci; filtered 13 loci; 15 loci seen.
+    657 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3777: analyzed 5 loci; filtered 6 loci; 11 loci seen.
+    603 genomic sites, of which 441 were covered by multiple loci (73.1%).
+HiC_scaffold_3789: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    431 genomic sites, of which 277 were covered by multiple loci (64.3%).
+HiC_scaffold_3796: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    570 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3803: analyzed 8 loci; filtered 16 loci; 24 loci seen.
+    1242 genomic sites, of which 408 were covered by multiple loci (32.9%).
+HiC_scaffold_3814: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    428 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3819: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    324 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3853: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    356 genomic sites, of which 178 were covered by multiple loci (50.0%).
+HiC_scaffold_3859: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    365 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3874: analyzed 3 loci; filtered 8 loci; 11 loci seen.
+    755 genomic sites, of which 150 were covered by multiple loci (19.9%).
+HiC_scaffold_3877: analyzed 2 loci; filtered 22 loci; 24 loci seen.
+    585 genomic sites, of which 7 were covered by multiple loci (1.2%).
+HiC_scaffold_3887: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    635 genomic sites, of which 4 were covered by multiple loci (0.6%).
+HiC_scaffold_3893: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    305 genomic sites, of which 276 were covered by multiple loci (90.5%).
+HiC_scaffold_3911: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    385 genomic sites, of which 184 were covered by multiple loci (47.8%).
+HiC_scaffold_3923: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    543 genomic sites, of which 103 were covered by multiple loci (19.0%).
+HiC_scaffold_3929: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    696 genomic sites, of which 4 were covered by multiple loci (0.6%).
+HiC_scaffold_3941: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    495 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3945: analyzed 3 loci; filtered 3 loci; 6 loci seen.
+    787 genomic sites, of which 141 were covered by multiple loci (17.9%).
+HiC_scaffold_3949: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    360 genomic sites, of which 90 were covered by multiple loci (25.0%).
+HiC_scaffold_3969: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    570 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_3977: analyzed 2 loci; filtered 11 loci; 13 loci seen.
+    289 genomic sites, of which 279 were covered by multiple loci (96.5%).
+HiC_scaffold_3988: analyzed 3 loci; filtered 3 loci; 6 loci seen.
+    651 genomic sites, of which 39 were covered by multiple loci (6.0%).
+HiC_scaffold_4002: analyzed 5 loci; filtered 9 loci; 14 loci seen.
+    708 genomic sites, of which 241 were covered by multiple loci (34.0%).
+HiC_scaffold_4003: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    283 genomic sites, of which 4 were covered by multiple loci (1.4%).
+HiC_scaffold_4015: analyzed 3 loci; filtered 3 loci; 6 loci seen.
+    361 genomic sites, of which 216 were covered by multiple loci (59.8%).
+HiC_scaffold_4021: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    260 genomic sites, of which 4 were covered by multiple loci (1.5%).
+HiC_scaffold_4028: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    287 genomic sites, of which 190 were covered by multiple loci (66.2%).
+HiC_scaffold_4060: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    530 genomic sites, of which 4 were covered by multiple loci (0.8%).
+HiC_scaffold_4063: analyzed 3 loci; filtered 10 loci; 13 loci seen.
+    549 genomic sites, of which 4 were covered by multiple loci (0.7%).
+HiC_scaffold_4098: analyzed 3 loci; filtered 13 loci; 16 loci seen.
+    507 genomic sites, of which 285 were covered by multiple loci (56.2%).
+HiC_scaffold_4112: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    283 genomic sites, of which 110 were covered by multiple loci (38.9%).
+HiC_scaffold_4139: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    363 genomic sites, of which 116 were covered by multiple loci (32.0%).
+HiC_scaffold_4151: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    406 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_4166: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    390 genomic sites, of which 250 were covered by multiple loci (64.1%).
+HiC_scaffold_4193: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    491 genomic sites, of which 77 were covered by multiple loci (15.7%).
+HiC_scaffold_4200: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    309 genomic sites, of which 210 were covered by multiple loci (68.0%).
+HiC_scaffold_4244: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    418 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_4247: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    339 genomic sites, of which 240 were covered by multiple loci (70.8%).
+HiC_scaffold_4254: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    343 genomic sites, of which 76 were covered by multiple loci (22.2%).
+HiC_scaffold_4273: analyzed 3 loci; filtered 3 loci; 6 loci seen.
+    532 genomic sites, of which 252 were covered by multiple loci (47.4%).
+HiC_scaffold_4286: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    439 genomic sites, of which 8 were covered by multiple loci (1.8%).
+HiC_scaffold_4298: analyzed 3 loci; filtered 2 loci; 5 loci seen.
+    337 genomic sites, of which 284 were covered by multiple loci (84.3%).
+HiC_scaffold_4314: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    299 genomic sites, of which 121 were covered by multiple loci (40.5%).
+HiC_scaffold_4336: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    521 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_4337: analyzed 4 loci; filtered 9 loci; 13 loci seen.
+    715 genomic sites, of which 4 were covered by multiple loci (0.6%).
+HiC_scaffold_4338: analyzed 13 loci; filtered 19 loci; 32 loci seen.
+    2895 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_4339: analyzed 5 loci; filtered 8 loci; 13 loci seen.
+    1272 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_4340: analyzed 7 loci; filtered 6 loci; 13 loci seen.
+    1603 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_4342: analyzed 3 loci; filtered 2 loci; 5 loci seen.
+    654 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_4343: analyzed 3 loci; filtered 10 loci; 13 loci seen.
+    674 genomic sites, of which 4 were covered by multiple loci (0.6%).
+HiC_scaffold_4346: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    472 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_4347: analyzed 3 loci; filtered 3 loci; 6 loci seen.
+    608 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_4353: analyzed 15 loci; filtered 11 loci; 26 loci seen.
+    2792 genomic sites, of which 328 were covered by multiple loci (11.7%).
+HiC_scaffold_4354: analyzed 6 loci; filtered 1 loci; 7 loci seen.
+    1303 genomic sites, of which 4 were covered by multiple loci (0.3%).
+HiC_scaffold_4356: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    561 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_4357: analyzed 10 loci; filtered 12 loci; 22 loci seen.
+    2094 genomic sites, of which 1 were covered by multiple loci (0.0%).
+HiC_scaffold_4358: analyzed 9 loci; filtered 11 loci; 20 loci seen.
+    1859 genomic sites, of which 164 were covered by multiple loci (8.8%).
+HiC_scaffold_4359: analyzed 29 loci; filtered 32 loci; 61 loci seen.
+    6430 genomic sites, of which 184 were covered by multiple loci (2.9%).
+HiC_scaffold_4362: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    535 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_4363: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    382 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_4364: analyzed 5 loci; filtered 3 loci; 8 loci seen.
+    1013 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_4366: analyzed 17 loci; filtered 22 loci; 39 loci seen.
+    3178 genomic sites, of which 0 were covered by multiple loci (0.0%).
+HiC_scaffold_4369: analyzed 37 loci; filtered 45 loci; 82 loci seen.
+    7149 genomic sites, of which 295 were covered by multiple loci (4.1%).
+HiC_scaffold_4370: analyzed 25 loci; filtered 31 loci; 56 loci seen.
+    5284 genomic sites, of which 205 were covered by multiple loci (3.9%).
+END batch_progress
+
+BEGIN samples_per_loc_prefilters
+# Distribution of valid samples matched to a catalog locus prior to filtering.
+n_samples	n_loci
+1	76946
+2	28134
+3	26011
+4	27050
+5	30022
+6	35302
+7	29030
+8	35270
+9	25225
+10	139400
+END samples_per_loc_prefilters
+
+BEGIN missing_samples_per_loc_prefilters
+# Distribution of missing samples for each catalog locus prior to filtering.
+# Absent samples at locus	Count
+0	139400
+1	25225
+2	35270
+3	29030
+4	35302
+5	30022
+6	27050
+7	26011
+8	28134
+9	76946
+END missing_samples_per_loc_prefilters
+
+BEGIN snps_per_loc_prefilters
+# Distribution of the number of SNPs per catalog locus prior to filtering.
+n_snps	n_loci
+0	342949
+1	75981
+2	22222
+3	6589
+4	2224
+5	946
+6	506
+7	292
+8	178
+9	133
+10	105
+11	61
+12	51
+13	51
+14	30
+15	18
+16	10
+17	14
+18	5
+19	2
+20	4
+21	4
+22	2
+24	4
+25	3
+26	2
+28	2
+31	2
+END snps_per_loc_prefilters
+
+BEGIN samples_per_loc_postfilters
+# Distribution of valid samples matched to a catalog locus after filtering.
+n_samples	n_loci
+8	35270
+9	25225
+10	139400
+END samples_per_loc_postfilters
+
+BEGIN missing_samples_per_loc_postfilters
+# Distribution of missing samples for each catalog locus after filtering.
+# Absent samples at locus	Count
+0	139400
+1	25225
+2	35270
+END missing_samples_per_loc_postfilters
+
+BEGIN snps_per_loc_postfilters
+# Distribution of the number of SNPs per catalog locus (after filtering).
+n_snps	n_loci
+0	127268
+1	51691
+2	15253
+3	4024
+4	1032
+5	313
+6	125
+7	56
+8	31
+9	20
+10	29
+11	11
+12	13
+13	10
+14	6
+15	3
+16	3
+17	2
+18	2
+21	2
+26	1
+END snps_per_loc_postfilters
